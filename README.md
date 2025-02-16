@@ -23,8 +23,8 @@ Antes de começar, você precisará de alguns itens e ferramentas:
 Primeiro, clone o repositório do projeto para o seu computador:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/Difarias/tarefa10_02_ADC
+cd tarefa10_02_ADC/
 ```
 
 ## Configuração do Ambiente de Desenvolvimento
