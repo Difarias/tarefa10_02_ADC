@@ -88,6 +88,12 @@ Após carregar o código na sua Raspberry Pi Pico, siga os passos abaixo para te
    - Mova o joystick e verifique se os LEDs e o objeto no display OLED respondem corretamente.
    - Pressione os botões para testar as interrupções e se a lógica de controle dos LEDs e do sistema funciona corretamente.
 
+## Vídeo Demonstração  
+
+[![Assista ao vídeo](https://img.youtube.com/vi/mbAS35Mp22M/maxresdefault.jpg)](https://youtu.be/mbAS35Mp22M)  
+
+Clique na imagem acima para assistir à demonstração no YouTube.
+
 
 ## Autoria
 
