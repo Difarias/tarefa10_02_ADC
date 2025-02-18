@@ -90,10 +90,9 @@ Após carregar o código na sua Raspberry Pi Pico, siga os passos abaixo para te
 
 ## Vídeo Demonstração  
 
-[![Assista ao vídeo](https://img.youtube.com/vi/mbAS35Mp22M/maxresdefault.jpg)](https://youtu.be/mbAS35Mp22M)  
+[![Assista ao vídeo](https://img.youtube.com/vi/mbAS35Mp22M/hqdefault.jpg)](https://youtu.be/mbAS35Mp22M)  
 
 Clique na imagem acima para assistir à demonstração no YouTube.
-
 
 ## Autoria
 
